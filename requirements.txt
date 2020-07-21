@@ -1,0 +1,5 @@
+mido==1.2.9
+py-midi==2.0.1
+pygame==1.9.6
+pyserial==3.4
+python-rtmidi==1.4.2
